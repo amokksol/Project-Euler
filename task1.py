@@ -1,6 +1,4 @@
 import numpy as np
-import pandas
-
 def task1(a):
     b = []
     for i in range(a):
